@@ -590,6 +590,10 @@ $CMP SD_socket
 D SD card socket with detect switch
 $ENDCMP
 #
+$CMP SD_socket_SDMode
+D 10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold
+$ENDCMP
+#
 $CMP SN74LVC1G02
 D Single channel positive logic NOR gate
 $ENDCMP
